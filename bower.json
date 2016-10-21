@@ -1,0 +1,17 @@
+{
+  "name": "html5-vr",
+  "homepage": "https://github.com/meathill-freelance/html5-vr",
+  "authors": [
+    "Meathill <meathill@gmail.com>"
+  ],
+  "description": "a html5 mini-site with vr scene",
+  "main": "index.html",
+  "keywords": [
+    "html5",
+    "vr"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
